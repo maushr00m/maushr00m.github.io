@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi, chao, ciao, bonjour, ni hao, hai con meo mau mau do👋
 
 <!--
 **maushr00m/maushr00m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
