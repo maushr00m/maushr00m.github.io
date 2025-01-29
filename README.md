@@ -1,4 +1,5 @@
-## hi, chao, ciao, bonjour, ni hao, hai con meo mau mau do👋
+## hi, cháo, ciao, bonjour, ni hao, hai máu mèo màu đỏ! this is my student site for all my NMA course work.👋
+
 
 <!--
 **maushr00m/maushr00m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
